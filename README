@@ -1,0 +1,3 @@
+git remote add origin https://github.com/cronk1739/Radiohead-Yaoi.git
+git branch -M main
+git push -u origin main
