@@ -82,10 +82,10 @@ h2, h3 {
     border-width: 4px;
     border-color:rgb(255, 0, 0);
     align-items: center;  
-    height: 25px;
+    height: 135px;
     width: 500px;
     text-align: center;
-    font-size: 10px;
+    font-size: 12.5px;
 }
  /* portfolio styles */
          .content h1 {
